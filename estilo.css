@@ -1,0 +1,22 @@
+mesa {
+    display: inline-block;
+
+    background-color:lightskyblue;
+    
+}
+
+placar {
+    display: inline-block;
+    background-color:brown
+    
+}
+
+cartas {
+    display:inline-block;
+    background-color:crimson
+}
+
+info {
+    display:inline-block;
+    background-color:brown
+}
